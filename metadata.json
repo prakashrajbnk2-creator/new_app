@@ -1,0 +1,6 @@
+{
+  "name": "PulseSummary",
+  "description": "An AI-powered tool to summarize notes and PDF documents into concise, readable PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
