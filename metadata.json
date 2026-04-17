@@ -1,6 +1,6 @@
 {
   "name": "PulseSummary",
-  "description": "An AI-powered tool to summarize notes and PDF documents into concise, readable PDFs.",
+  "description": "An AI-powered academic dashboard with PDF summarization, smart notes synthesis, and a curated library of trending educational resources.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
