@@ -42,7 +42,7 @@ import {
 import { motion, AnimatePresence } from 'motion/react';
 import Markdown from 'react-markdown';
 import { cn } from './lib/utils';
-import AIChatBot from './components/AIChatbot';
+import AIChatbot from './components/AIChatbot';
 
 // Types
 type SummaryLength = 'short' | 'medium' | 'detailed';
